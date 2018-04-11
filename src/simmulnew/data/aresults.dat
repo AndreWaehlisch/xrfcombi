@@ -1,0 +1,43 @@
+Mon Aug 26 14:20:07 2002
+
+-----Sample ID SSRM1184 ------
+
+
+line  kv    intens.
+
+Si ka 45 65.0 
+P ka 45 5.22 
+S ka 45 7.61 
+Cr ka 45 6540 
+Mn ka 45 286 
+Fe ka 45 12610 
+Ni ka 45 1242 
+Cu ka 45 10.3 
+Mo ka 45 444.0 
+
+-----Sample ID SSRM1184 ------
+
+
+
+Line  Si ka RXI found 0.00185774 RXI meas 0.00185775
+Line  P ka RXI found 4.62198e-005 RXI meas 4.622e-005
+Line  S ka RXI found 0.000136948 RXI meas 0.000136949
+Line  Cr ka RXI found 0.242656 RXI meas 0.242657
+Line  Mn ka RXI found 0.0105848 RXI meas 0.0105848
+Line  Fe ka RXI found 0.489094 RXI meas 0.489094
+Line  Ni ka RXI found 0.0451964 RXI meas 0.0451965
+Line  Cu ka RXI found 0.000311915 RXI meas 0.000311915
+Line  Mo ka RXI found 0.0160882 RXI meas 0.0160882
+
+Layer 0 has 10 compounds and a massthickness of 10  g/cm2
+Compound Si wfract 0.00717035  
+Compound P wfract 0.000139968  
+Compound S wfract 0.000312803  
+Compound Cr wfract 0.16845  
+Compound Mn wfract 0.00903697  
+Compound Fe wfract 0.565086  
+Compound Ni wfract 0.081813  
+Compound Cu wfract 0.000673167  
+Compound Mo wfract 0.0124825  
+Compound O wfract 0.154841  
+Ssq is 5.25446e-016

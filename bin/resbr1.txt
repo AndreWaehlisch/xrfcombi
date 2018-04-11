@@ -1,0 +1,53 @@
+nr lines is 13
+Na ka totint 1.5313e-007 totint_bulk 5.23491e-005 totprimint 1.37851e-007 totprimintbulk 5.23491e-005totsecint 1.49494e-008 totcomptonint 4.51507e-011 totcomptonintbulk 3.7645e-008
+totraylfotint 2.17883e-010 totraylfotint_bulk 1.88585e-007 
+totfotraylint 6.64012e-011 totfotraylint_bulk 1.24986e-007  
+rxi old is 0.00293859 rxi scatter is 0.00292517 
+Mg ka totint 9.91592e-007 totint_bulk 9.69304e-005 totprimint 8.90813e-007 totprimintbulk 9.69304e-005totsecint 9.82992e-008 totcomptonint 3.02196e-010 totcomptonintbulk 5.58901e-008
+totraylfotint 1.52911e-009 totraylfotint_bulk 3.27369e-007 
+totfotraylint 6.49111e-010 totfotraylint_bulk 2.78718e-007  
+rxi old is 0.0102745 rxi scatter is 0.0102299 
+Al ka totint 2.89846e-006 totint_bulk 0.000176292 totprimint 2.60947e-006 totprimintbulk 0.000176292totsecint 2.8066e-007 totcomptonint 9.18746e-010 totcomptonintbulk 8.389e-008
+totraylfotint 4.83834e-009 totraylfotint_bulk 5.55399e-007 
+totfotraylint 2.57791e-009 totfotraylint_bulk 6.04871e-007  
+rxi old is 0.0165105 rxi scatter is 0.0164413 
+Al ka totint 2.89846e-006 totint_bulk 0.000176292 totprimint 2.60947e-006 totprimintbulk 0.000176292totsecint 2.8066e-007 totcomptonint 9.18746e-010 totcomptonintbulk 8.389e-008
+totraylfotint 4.83834e-009 totraylfotint_bulk 5.55399e-007 
+totfotraylint 2.57791e-009 totfotraylint_bulk 6.04871e-007  
+rxi old is 0.0165105 rxi scatter is 0.0164413 
+Si ka totint 1.41084e-005 totint_bulk 0.000284872 totprimint 1.27874e-005 totprimintbulk 0.000284872totsecint 1.27484e-006 totcomptonint 4.6967e-009 totcomptonintbulk 1.20934e-007
+totraylfotint 2.54895e-008 totraylfotint_bulk 8.82744e-007 
+totfotraylint 1.5933e-008 totfotraylint_bulk 1.15339e-006  
+rxi old is 0.0497402 rxi scatter is 0.0495255 
+S ka totint 4.58173e-007 totint_bulk 0.000649182 totprimint 4.12153e-007 totprimintbulk 0.000649182totsecint 4.42407e-008 totcomptonint 1.6255e-010 totcomptonintbulk 2.13152e-007
+totraylfotint 9.24963e-010 totraylfotint_bulk 1.87255e-006 
+totfotraylint 6.9132e-010 totfotraylint_bulk 3.33575e-006  
+rxi old is 0.000708949 rxi scatter is 0.000705769 
+Cl ka totint 4.9016e-006 totint_bulk 0.00093072 totprimint 4.38382e-006 totprimintbulk 0.00093072totsecint 4.95534e-007 totcomptonint 1.84407e-009 totcomptonintbulk 2.74997e-007
+totraylfotint 1.09012e-008 totraylfotint_bulk 2.63305e-006 
+totfotraylint 9.50212e-009 totfotraylint_bulk 5.33515e-006  
+rxi old is 0.0052894 rxi scatter is 0.00526646 
+K ka totint 3.42264e-005 totint_bulk 0.00162506 totprimint 3.03073e-005 totprimintbulk 0.00162506totsecint 3.71442e-006 totcomptonint 1.46358e-008 totcomptonintbulk 4.13566e-007
+totraylfotint 9.07373e-008 totraylfotint_bulk 4.46902e-006 
+totfotraylint 9.93076e-008 totfotraylint_bulk 1.0526e-005  
+rxi old is 0.021136 rxi scatter is 0.0210616 
+Ca ka totint 0.000612877 totint_bulk 0.00204405 totprimint 0.000607395 totprimintbulk 0.00204405totsecint 1.024e-006 totcomptonint 3.11439e-007 totcomptonintbulk 4.91305e-007
+totraylfotint 1.9318e-006 totraylfotint_bulk 5.43023e-006 
+totfotraylint 2.21459e-006 totfotraylint_bulk 1.34602e-005  
+rxi old is 0.300503 rxi scatter is 0.299835 
+Fe ka totint 3.26408e-005 totint_bulk 0.000705433 totprimint 3.2163e-005 totprimintbulk 0.000705433totsecint 1.09652e-008 totcomptonint 1.29915e-007 totcomptonintbulk 8.71291e-007
+totraylfotint 1.77292e-007 totraylfotint_bulk 3.89202e-006 
+totfotraylint 1.59625e-007 totfotraylint_bulk 9.49572e-006  
+rxi old is 0.0465497 rxi scatter is 0.0462706 
+Fe kb1 totint 5.42771e-006 totint_bulk 0.000106865 totprimint 5.34004e-006 totprimintbulk 0.000106865totsecint 1.95827e-009 totcomptonint 2.29504e-008 totcomptonintbulk 1.45377e-007
+totraylfotint 3.24457e-008 totraylfotint_bulk 6.41355e-007 
+totfotraylint 3.03186e-008 totfotraylint_bulk 1.59913e-006  
+rxi old is 0.0511297 rxi scatter is 0.0507903 
+Sb ka totint 1.74223e-005 totint_bulk 0.000389241 totprimint 1.58814e-005 totprimintbulk 0.000389241totsecint 0 totcomptonint 8.01087e-007 totcomptonintbulk 8.19091e-007
+totraylfotint 4.06781e-007 totraylfotint_bulk 4.84851e-006 
+totfotraylint 3.33067e-007 totfotraylint_bulk 8.46118e-006  
+rxi old is 0.0423377 rxi scatter is 0.0447598 
+Sb la1 totint 3.01408e-006 totint_bulk 0.000262595 totprimint 2.98646e-006 totprimintbulk 0.000262595totsecint 4.87415e-009 totcomptonint 1.87217e-009 totcomptonintbulk 2.0267e-008
+totraylfotint 9.59239e-009 totraylfotint_bulk 1.10069e-006 
+totfotraylint 1.12785e-008 totfotraylint_bulk 1.86555e-006  
+rxi old is 0.0115225 rxi scatter is 0.011478 

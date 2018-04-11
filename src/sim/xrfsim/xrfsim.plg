@@ -1,0 +1,115 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: xrfsim - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP3C.tmp" with contents
+[
+/nologo /ML /W3 /GX /D "WIN32" /D "NDEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Release/xrfsim.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"F:\xrf\src\sim\attilabda.c"
+"F:\xrf\src\sim\bldatomd.c"
+"F:\xrf\src\sim\bscatter.c"
+"F:\xrf\src\sim\characwl.c"
+"F:\xrf\src\sim\compdata.c"
+"F:\xrf\src\sim\convcomp.c"
+"F:\xrf\src\sim\costerkr.c"
+"F:\xrf\src\sim\define_smpl.c"
+"F:\xrf\src\sim\edges.c"
+"F:\xrf\src\sim\emutable.c"
+"F:\xrf\src\sim\enhanc.c"
+"F:\xrf\src\sim\gen_spec.c"
+"F:\xrf\src\sim\init_tables.c"
+"F:\xrf\src\sim\intrasecflu.c"
+"F:\xrf\src\sim\jmpedg.c"
+"F:\xrf\src\sim\layerdata.c"
+"F:\xrf\src\sim\linesms.c"
+"F:\xrf\src\sim\lzero.c"
+"F:\xrf\src\sim\mkbulklay.c"
+"F:\xrf\src\sim\nkls.c"
+"F:\xrf\src\sim\omega.c"
+"F:\xrf\src\sim\pilabda.c"
+"F:\xrf\src\sim\relrates.c"
+"F:\xrf\src\sim\secfluij.c"
+"F:\xrf\src\sim\selfattilabda.c"
+"F:\xrf\src\sim\set_spectrom.c"
+"F:\xrf\src\sim\xrfluor.c"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP3C.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP3D.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:no /pdb:"Release/xrfsim.pdb" /machine:I386 /out:"Release/xrfsim.exe" 
+.\Release\attilabda.obj
+.\Release\bldatomd.obj
+.\Release\bscatter.obj
+.\Release\characwl.obj
+.\Release\compdata.obj
+.\Release\convcomp.obj
+.\Release\costerkr.obj
+.\Release\define_smpl.obj
+.\Release\edges.obj
+.\Release\emutable.obj
+.\Release\enhanc.obj
+.\Release\gen_spec.obj
+.\Release\init_tables.obj
+.\Release\intrasecflu.obj
+.\Release\jmpedg.obj
+.\Release\layerdata.obj
+.\Release\linesms.obj
+.\Release\lzero.obj
+.\Release\mkbulklay.obj
+.\Release\nkls.obj
+.\Release\omega.obj
+.\Release\pilabda.obj
+.\Release\relrates.obj
+.\Release\secfluij.obj
+.\Release\selfattilabda.obj
+.\Release\set_spectrom.obj
+.\Release\xrfluor.obj
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP3D.tmp"
+<h3>Output Window</h3>
+Compiling...
+attilabda.c
+bldatomd.c
+bscatter.c
+characwl.c
+compdata.c
+convcomp.c
+costerkr.c
+define_smpl.c
+edges.c
+emutable.c
+enhanc.c
+gen_spec.c
+F:\xrf\src\sim\gen_spec.c(110) : warning C4244: '=' : conversion from 'double ' to 'int ', possible loss of data
+F:\xrf\src\sim\gen_spec.c(125) : warning C4244: '=' : conversion from 'double ' to 'int ', possible loss of data
+F:\xrf\src\sim\gen_spec.c(140) : warning C4244: '=' : conversion from 'double ' to 'int ', possible loss of data
+F:\xrf\src\sim\gen_spec.c(155) : warning C4244: '=' : conversion from 'double ' to 'int ', possible loss of data
+init_tables.c
+intrasecflu.c
+jmpedg.c
+layerdata.c
+F:\xrf\src\sim\jmpedg.c(421) : warning C4715: 'getjmpfact' : not all control paths return a value
+linesms.c
+lzero.c
+mkbulklay.c
+nkls.c
+omega.c
+pilabda.c
+relrates.c
+secfluij.c
+selfattilabda.c
+set_spectrom.c
+xrfluor.c
+Linking...
+
+
+
+<h3>Results</h3>
+xrfsim.exe - 0 error(s), 5 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,24 @@
+Calibration Results   Wed Jan 21 21:13:31 2004   
+
+----------------------------------------------
+
+
+
+name #cmpds mth  compound  fraction ...
+
+                                           
+
+PdOH3BO3  2 0.226 PdO 0.01138 H3BO3 0.98862
+
+-------------------------------------------------
+  
+
+Sample Id | int line 1 | int line 2 | ....      
+
+PdOH3BO3 3.1268
+
+-----------slopes calibration lines ------
+
+
+
+Pd ka 60 None 0.00 LIF200 MLARGE  2.897906e+001

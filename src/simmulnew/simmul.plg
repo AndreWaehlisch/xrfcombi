@@ -1,0 +1,129 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: simmul - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP44.tmp" with contents
+[
+/nologo /ML /W3 /GX /D "WIN32" /D "NDEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Release/simmul.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"F:\xrf\src\simmulnew\attilabda.c"
+"F:\xrf\src\simmulnew\bigx.c"
+"F:\xrf\src\simmulnew\bldatomd.c"
+"F:\xrf\src\simmulnew\characwl.c"
+"F:\xrf\src\simmulnew\compdata.c"
+"F:\xrf\src\simmulnew\convcomp.c"
+"F:\xrf\src\simmulnew\costerkr.c"
+"F:\xrf\src\simmulnew\define_smpl.c"
+"F:\xrf\src\simmulnew\edges.c"
+"F:\xrf\src\simmulnew\emutable.c"
+"F:\xrf\src\simmulnew\enhanc.c"
+"F:\xrf\src\simmulnew\gen_spec.c"
+"F:\xrf\src\simmulnew\init_tables.c"
+"F:\xrf\src\simmulnew\intermediate.c"
+"F:\xrf\src\simmulnew\intersecflu.c"
+"F:\xrf\src\simmulnew\intrasecflu.c"
+"F:\xrf\src\simmulnew\jmpedg.c"
+"F:\xrf\src\simmulnew\layerdata.c"
+"F:\xrf\src\simmulnew\linesms.c"
+"F:\xrf\src\simmulnew\lzero.c"
+"F:\xrf\src\simmulnew\mkbulklay.c"
+"F:\xrf\src\simmulnew\mupdown.c"
+"F:\xrf\src\simmulnew\nkls.c"
+"F:\xrf\src\simmulnew\omega.c"
+"F:\xrf\src\simmulnew\pilabda.c"
+"F:\xrf\src\simmulnew\relrates.c"
+"F:\xrf\src\simmulnew\secflufact.c"
+"F:\xrf\src\simmulnew\secfluij.c"
+"F:\xrf\src\simmulnew\selfattilabda.c"
+"F:\xrf\src\simmulnew\set_spectrom.c"
+"F:\xrf\src\simmulnew\simmul.c"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP44.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP45.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:no /pdb:"Release/simmul.pdb" /machine:I386 /out:"Release/simmul.exe" 
+.\Release\attilabda.obj
+.\Release\bigx.obj
+.\Release\bldatomd.obj
+.\Release\characwl.obj
+.\Release\compdata.obj
+.\Release\convcomp.obj
+.\Release\costerkr.obj
+.\Release\define_smpl.obj
+.\Release\edges.obj
+.\Release\emutable.obj
+.\Release\enhanc.obj
+.\Release\gen_spec.obj
+.\Release\init_tables.obj
+.\Release\intermediate.obj
+.\Release\intersecflu.obj
+.\Release\intrasecflu.obj
+.\Release\jmpedg.obj
+.\Release\layerdata.obj
+.\Release\linesms.obj
+.\Release\lzero.obj
+.\Release\mkbulklay.obj
+.\Release\mupdown.obj
+.\Release\nkls.obj
+.\Release\omega.obj
+.\Release\pilabda.obj
+.\Release\relrates.obj
+.\Release\secflufact.obj
+.\Release\secfluij.obj
+.\Release\selfattilabda.obj
+.\Release\set_spectrom.obj
+.\Release\simmul.obj
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP45.tmp"
+<h3>Output Window</h3>
+Compiling...
+attilabda.c
+bigx.c
+bldatomd.c
+characwl.c
+compdata.c
+convcomp.c
+costerkr.c
+define_smpl.c
+edges.c
+emutable.c
+enhanc.c
+F:\xrf\src\simmulnew\enhanc.c(40) : warning C4101: 'seriesi' : unreferenced local variable
+F:\xrf\src\simmulnew\enhanc.c(40) : warning C4101: 'shelli' : unreferenced local variable
+gen_spec.c
+F:\xrf\src\simmulnew\gen_spec.c(110) : warning C4244: '=' : conversion from 'double ' to 'int ', possible loss of data
+F:\xrf\src\simmulnew\gen_spec.c(125) : warning C4244: '=' : conversion from 'double ' to 'int ', possible loss of data
+F:\xrf\src\simmulnew\gen_spec.c(140) : warning C4244: '=' : conversion from 'double ' to 'int ', possible loss of data
+F:\xrf\src\simmulnew\gen_spec.c(155) : warning C4244: '=' : conversion from 'double ' to 'int ', possible loss of data
+init_tables.c
+intermediate.c
+intersecflu.c
+intrasecflu.c
+jmpedg.c
+layerdata.c
+F:\xrf\src\simmulnew\jmpedg.c(418) : warning C4715: 'getjmpfact' : not all control paths return a value
+linesms.c
+lzero.c
+mkbulklay.c
+mupdown.c
+nkls.c
+omega.c
+pilabda.c
+relrates.c
+secflufact.c
+secfluij.c
+selfattilabda.c
+set_spectrom.c
+simmul.c
+Linking...
+
+
+
+<h3>Results</h3>
+simmul.exe - 0 error(s), 7 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,6 @@
+set title " Mn ka 50.0 Al 0.081 LIF200 MLARGE " 
+set xlabel "RXI"
+set ylabel "Intensity"
+plot  "./data/calib0.dat", x*1.876418e+001 with lines 
+pause -1 
+quit

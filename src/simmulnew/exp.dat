@@ -1,0 +1,378 @@
+aantal lagen is 25
+laag 0 heeft 15 elementen
+massthickness laag 0 is 0.000302807 
+El is O, fractie is 0.368291 
+El is Na, fractie is 0.0109066 
+El is Mg, fractie is 0.0162582 
+El is Al, fractie is 0.00512799 
+El is Si, fractie is 0.270648 
+El is S, fractie is 0.00070723 
+El is Cl, fractie is 7.81368e-05 
+El is K, fractie is 0.0041255 
+El is Ca, fractie is 0.0450109 
+El is Ti, fractie is 0.000244058 
+El is Fe, fractie is 0.000485855 
+El is Sr, fractie is 2.97325e-05 
+El is Zr, fractie is 5.35073e-05 
+El is Ag, fractie is 0.277917 
+El is Ba, fractie is 0.000116874 
+laag 1 heeft 15 elementen
+massthickness laag 1 is 0.00028214 
+El is O, fractie is 0.397998 
+El is Na, fractie is 0.0336347 
+El is Mg, fractie is 0.0175696 
+El is Al, fractie is 0.00554162 
+El is Si, fractie is 0.292479 
+El is S, fractie is 0.000764277 
+El is Cl, fractie is 8.44395e-05 
+El is K, fractie is 0.00445827 
+El is Ca, fractie is 0.0486416 
+El is Ti, fractie is 0.000263744 
+El is Fe, fractie is 0.000525045 
+El is Sr, fractie is 3.21308e-05 
+El is Zr, fractie is 5.78233e-05 
+El is Ag, fractie is 0.197824 
+El is Ba, fractie is 0.000126301 
+laag 2 heeft 15 elementen
+massthickness laag 2 is 0.00026548 
+El is O, fractie is 0.425313 
+El is Na, fractie is 0.0545333 
+El is Mg, fractie is 0.0187754 
+El is Al, fractie is 0.00592196 
+El is Si, fractie is 0.312553 
+El is S, fractie is 0.000816731 
+El is Cl, fractie is 9.02348e-05 
+El is K, fractie is 0.00476426 
+El is Ca, fractie is 0.05198 
+El is Ti, fractie is 0.000281846 
+El is Fe, fractie is 0.00056108 
+El is Sr, fractie is 3.4336e-05 
+El is Zr, fractie is 6.17919e-05 
+El is Ag, fractie is 0.124178 
+El is Ba, fractie is 0.000134969 
+laag 3 heeft 15 elementen
+massthickness laag 3 is 0.000253978 
+El is O, fractie is 0.446263 
+El is Na, fractie is 0.0705613 
+El is Mg, fractie is 0.0197003 
+El is Al, fractie is 0.00621366 
+El is Si, fractie is 0.327948 
+El is S, fractie is 0.000856961 
+El is Cl, fractie is 9.46795e-05 
+El is K, fractie is 0.00499893 
+El is Ca, fractie is 0.0545404 
+El is Ti, fractie is 0.000295728 
+El is Fe, fractie is 0.000588717 
+El is Sr, fractie is 3.60273e-05 
+El is Zr, fractie is 6.48356e-05 
+El is Ag, fractie is 0.0676957 
+El is Ba, fractie is 0.000141617 
+laag 4 heeft 15 elementen
+massthickness laag 4 is 0.000247178 
+El is O, fractie is 0.459564 
+El is Na, fractie is 0.0807375 
+El is Mg, fractie is 0.0202874 
+El is Al, fractie is 0.00639886 
+El is Si, fractie is 0.337723 
+El is S, fractie is 0.000882502 
+El is Cl, fractie is 9.75014e-05 
+El is K, fractie is 0.00514792 
+El is Ca, fractie is 0.056166 
+El is Ti, fractie is 0.000304543 
+El is Fe, fractie is 0.000606264 
+El is Sr, fractie is 3.71011e-05 
+El is Zr, fractie is 6.6768e-05 
+El is Ag, fractie is 0.0318351 
+El is Ba, fractie is 0.000145838 
+laag 5 heeft 15 elementen
+massthickness laag 5 is 0.000243735 
+El is O, fractie is 0.466583 
+El is Na, fractie is 0.0861079 
+El is Mg, fractie is 0.0205973 
+El is Al, fractie is 0.0064966 
+El is Si, fractie is 0.342881 
+El is S, fractie is 0.000895982 
+El is Cl, fractie is 9.89906e-05 
+El is K, fractie is 0.00522655 
+El is Ca, fractie is 0.0570239 
+El is Ti, fractie is 0.000309194 
+El is Fe, fractie is 0.000615524 
+El is Sr, fractie is 3.76678e-05 
+El is Zr, fractie is 6.77878e-05 
+El is Ag, fractie is 0.0129103 
+El is Ba, fractie is 0.000148066 
+laag 6 heeft 15 elementen
+massthickness laag 6 is 0.00024224 
+El is O, fractie is 0.469694 
+El is Na, fractie is 0.0884877 
+El is Mg, fractie is 0.0207346 
+El is Al, fractie is 0.00653991 
+El is Si, fractie is 0.345167 
+El is S, fractie is 0.000901955 
+El is Cl, fractie is 9.96506e-05 
+El is K, fractie is 0.0052614 
+El is Ca, fractie is 0.057404 
+El is Ti, fractie is 0.000311256 
+El is Fe, fractie is 0.000619628 
+El is Sr, fractie is 3.79189e-05 
+El is Zr, fractie is 6.82397e-05 
+El is Ag, fractie is 0.00452391 
+El is Ba, fractie is 0.000149053 
+laag 7 heeft 15 elementen
+massthickness laag 7 is 0.000241682 
+El is O, fractie is 0.470863 
+El is Na, fractie is 0.0893822 
+El is Mg, fractie is 0.0207862 
+El is Al, fractie is 0.00655619 
+El is Si, fractie is 0.346026 
+El is S, fractie is 0.0009042 
+El is Cl, fractie is 9.98986e-05 
+El is K, fractie is 0.00527449 
+El is Ca, fractie is 0.0575469 
+El is Ti, fractie is 0.00031203 
+El is Fe, fractie is 0.00062117 
+El is Sr, fractie is 3.80133e-05 
+El is Zr, fractie is 6.84096e-05 
+El is Ag, fractie is 0.00137178 
+El is Ba, fractie is 0.000149424 
+laag 8 heeft 15 elementen
+massthickness laag 8 is 0.000241504 
+El is O, fractie is 0.471238 
+El is Na, fractie is 0.0896693 
+El is Mg, fractie is 0.0208028 
+El is Al, fractie is 0.00656141 
+El is Si, fractie is 0.346302 
+El is S, fractie is 0.000904921 
+El is Cl, fractie is 9.99782e-05 
+El is K, fractie is 0.0052787 
+El is Ca, fractie is 0.0575928 
+El is Ti, fractie is 0.000312279 
+El is Fe, fractie is 0.000621665 
+El is Sr, fractie is 3.80436e-05 
+El is Zr, fractie is 6.84641e-05 
+El is Ag, fractie is 0.00036004 
+El is Ba, fractie is 0.000149543 
+laag 9 heeft 15 elementen
+massthickness laag 9 is 0.000241455 
+El is O, fractie is 0.471342 
+El is Na, fractie is 0.0897483 
+El is Mg, fractie is 0.0208073 
+El is Al, fractie is 0.00656284 
+El is Si, fractie is 0.346378 
+El is S, fractie is 0.000905119 
+El is Cl, fractie is 0.0001 
+El is K, fractie is 0.00527985 
+El is Ca, fractie is 0.0576054 
+El is Ti, fractie is 0.000312347 
+El is Fe, fractie is 0.000621801 
+El is Sr, fractie is 3.80519e-05 
+El is Zr, fractie is 6.84791e-05 
+El is Ag, fractie is 8.17383e-05 
+El is Ba, fractie is 0.000149576 
+laag 10 heeft 15 elementen
+massthickness laag 10 is 0.000241443 
+El is O, fractie is 0.471366 
+El is Na, fractie is 0.0897669 
+El is Mg, fractie is 0.0208084 
+El is Al, fractie is 0.00656319 
+El is Si, fractie is 0.346395 
+El is S, fractie is 0.000905166 
+El is Cl, fractie is 0.000100005 
+El is K, fractie is 0.00528013 
+El is Ca, fractie is 0.0576084 
+El is Ti, fractie is 0.000312364 
+El is Fe, fractie is 0.000621834 
+El is Sr, fractie is 3.80539e-05 
+El is Zr, fractie is 6.84827e-05 
+El is Ag, fractie is 1.60354e-05 
+El is Ba, fractie is 0.000149584 
+laag 11 heeft 15 elementen
+massthickness laag 11 is 0.000241441 
+El is O, fractie is 0.471371 
+El is Na, fractie is 0.0897707 
+El is Mg, fractie is 0.0208086 
+El is Al, fractie is 0.00656326 
+El is Si, fractie is 0.346399 
+El is S, fractie is 0.000905175 
+El is Cl, fractie is 0.000100006 
+El is K, fractie is 0.00528018 
+El is Ca, fractie is 0.057609 
+El is Ti, fractie is 0.000312367 
+El is Fe, fractie is 0.00062184 
+El is Sr, fractie is 3.80543e-05 
+El is Zr, fractie is 6.84834e-05 
+El is Ag, fractie is 2.71567e-06 
+El is Ba, fractie is 0.000149585 
+laag 12 heeft 15 elementen
+massthickness laag 12 is 0.00024144 
+El is O, fractie is 0.471372 
+El is Na, fractie is 0.0897714 
+El is Mg, fractie is 0.0208087 
+El is Al, fractie is 0.00656327 
+El is Si, fractie is 0.3464 
+El is S, fractie is 0.000905177 
+El is Cl, fractie is 0.000100006 
+El is K, fractie is 0.00528019 
+El is Ca, fractie is 0.0576091 
+El is Ti, fractie is 0.000312367 
+El is Fe, fractie is 0.000621841 
+El is Sr, fractie is 3.80544e-05 
+El is Zr, fractie is 6.84835e-05 
+El is Ag, fractie is 3.9667e-07 
+El is Ba, fractie is 0.000149585 
+laag 13 heeft 15 elementen
+massthickness laag 13 is 0.00024144 
+El is O, fractie is 0.471372 
+El is Na, fractie is 0.0897714 
+El is Mg, fractie is 0.0208087 
+El is Al, fractie is 0.00656327 
+El is Si, fractie is 0.3464 
+El is S, fractie is 0.000905177 
+El is Cl, fractie is 0.000100006 
+El is K, fractie is 0.00528019 
+El is Ca, fractie is 0.0576091 
+El is Ti, fractie is 0.000312367 
+El is Fe, fractie is 0.000621841 
+El is Sr, fractie is 3.80544e-05 
+El is Zr, fractie is 6.84835e-05 
+El is Ag, fractie is 4.99361e-08 
+El is Ba, fractie is 0.000149585 
+laag 14 heeft 15 elementen
+massthickness laag 14 is 0.00024144 
+El is O, fractie is 0.471372 
+El is Na, fractie is 0.0897714 
+El is Mg, fractie is 0.0208087 
+El is Al, fractie is 0.00656327 
+El is Si, fractie is 0.3464 
+El is S, fractie is 0.000905177 
+El is Cl, fractie is 0.000100007 
+El is K, fractie is 0.00528019 
+El is Ca, fractie is 0.0576091 
+El is Ti, fractie is 0.000312367 
+El is Fe, fractie is 0.000621841 
+El is Sr, fractie is 3.80544e-05 
+El is Zr, fractie is 6.84835e-05 
+El is Ag, fractie is 5.41451e-09 
+El is Ba, fractie is 0.000149585 
+laag 15 heeft 15 elementen
+massthickness laag 15 is 0.00024144 
+El is O, fractie is 0.471372 
+El is Na, fractie is 0.0897714 
+El is Mg, fractie is 0.0208087 
+El is Al, fractie is 0.00656327 
+El is Si, fractie is 0.3464 
+El is S, fractie is 0.000905177 
+El is Cl, fractie is 0.000100007 
+El is K, fractie is 0.00528019 
+El is Ca, fractie is 0.0576091 
+El is Ti, fractie is 0.000312367 
+El is Fe, fractie is 0.000621841 
+El is Sr, fractie is 3.80544e-05 
+El is Zr, fractie is 6.84835e-05 
+El is Ag, fractie is 5.054e-10 
+El is Ba, fractie is 0.000149585 
+laag 16 heeft 15 elementen
+massthickness laag 16 is 0.00024144 
+El is O, fractie is 0.471372 
+El is Na, fractie is 0.0897714 
+El is Mg, fractie is 0.0208087 
+El is Al, fractie is 0.00656327 
+El is Si, fractie is 0.3464 
+El is S, fractie is 0.000905177 
+El is Cl, fractie is 0.000100007 
+El is K, fractie is 0.00528019 
+El is Ca, fractie is 0.0576091 
+El is Ti, fractie is 0.000312367 
+El is Fe, fractie is 0.000621841 
+El is Sr, fractie is 3.80544e-05 
+El is Zr, fractie is 6.84835e-05 
+El is Ag, fractie is 4.05931e-11 
+El is Ba, fractie is 0.000149585 
+laag 17 heeft 15 elementen
+massthickness laag 17 is 0.00024144 
+El is O, fractie is 0.471372 
+El is Na, fractie is 0.0897714 
+El is Mg, fractie is 0.0208087 
+El is Al, fractie is 0.00656327 
+El is Si, fractie is 0.3464 
+El is S, fractie is 0.000905177 
+El is Cl, fractie is 0.000100007 
+El is K, fractie is 0.00528019 
+El is Ca, fractie is 0.0576091 
+El is Ti, fractie is 0.000312367 
+El is Fe, fractie is 0.000621841 
+El is Sr, fractie is 3.80544e-05 
+El is Zr, fractie is 6.84835e-05 
+El is Ag, fractie is 2.80443e-12 
+El is Ba, fractie is 0.000149585 
+laag 18 heeft 15 elementen
+massthickness laag 18 is 0.00024144 
+El is O, fractie is 0.471372 
+El is Na, fractie is 0.0897714 
+El is Mg, fractie is 0.0208087 
+El is Al, fractie is 0.00656327 
+El is Si, fractie is 0.3464 
+El is S, fractie is 0.000905177 
+El is Cl, fractie is 0.000100007 
+El is K, fractie is 0.00528019 
+El is Ca, fractie is 0.0576091 
+El is Ti, fractie is 0.000312367 
+El is Fe, fractie is 0.000621841 
+El is Sr, fractie is 3.80544e-05 
+El is Zr, fractie is 6.84835e-05 
+El is Ag, fractie is 1.666e-13 
+El is Ba, fractie is 0.000149585 
+laag 19 heeft 15 elementen
+massthickness laag 19 is 0.00024144 
+El is O, fractie is 0.471372 
+El is Na, fractie is 0.0897714 
+El is Mg, fractie is 0.0208087 
+El is Al, fractie is 0.00656327 
+El is Si, fractie is 0.3464 
+El is S, fractie is 0.000905177 
+El is Cl, fractie is 0.000100007 
+El is K, fractie is 0.00528019 
+El is Ca, fractie is 0.0576091 
+El is Ti, fractie is 0.000312367 
+El is Fe, fractie is 0.000621841 
+El is Sr, fractie is 3.80544e-05 
+El is Zr, fractie is 6.84835e-05 
+El is Ag, fractie is 8.50786e-15 
+El is Ba, fractie is 0.000149585 
+laag 20 heeft 15 elementen
+massthickness laag 20 is 0.00024144 
+El is O, fractie is 0.471372 
+El is Na, fractie is 0.0897714 
+El is Mg, fractie is 0.0208087 
+El is Al, fractie is 0.00656327 
+El is Si, fractie is 0.3464 
+El is S, fractie is 0.000905177 
+El is Cl, fractie is 0.000100007 
+El is K, fractie is 0.00528019 
+El is Ca, fractie is 0.0576091 
+El is Ti, fractie is 0.000312367 
+El is Fe, fractie is 0.000621841 
+El is Sr, fractie is 3.80544e-05 
+El is Zr, fractie is 6.84835e-05 
+El is Ag, fractie is 3.73402e-16 
+El is Ba, fractie is 0.000149585 
+laag 21 heeft 15 elementen
+massthickness laag 21 is 0.00024144 
+El is O, fractie is 0.471372 
+El is Na, fractie is 0.0897714 
+El is Mg, fractie is 0.0208087 
+El is Al, fractie is 0.00656327 
+El is Si, fractie is 0.3464 
+El is S, fractie is 0.000905177 
+El is Cl, fractie is 0.000100007 
+El is K, fractie is 0.00528019 
+El is Ca, fractie is 0.0576091 
+El is Ti, fractie is 0.000312367 
+El is Fe, fractie is 0.000621841 
+El is Sr, fractie is 3.80544e-05 
+El is Zr, fractie is 6.84835e-05 
+El is Ag, fractie is 1.40817e-17 
+El is Ba, fractie is 0.000149585 
+laag 22 heeft 15 elementen
+massthickness laag 22 is 0.00024144 
+El is O, fractie is 0.471372

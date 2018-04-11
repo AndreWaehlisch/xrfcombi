@@ -1,0 +1,141 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: xrfwang - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP8.tmp" with contents
+[
+/nologo /ML /W3 /GX /D "WIN32" /D "NDEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Release/xrfwang.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"F:\xrf\src\xrfwang\attilabda.c"
+"F:\xrf\src\xrfwang\bldatomd.c"
+"F:\xrf\src\xrfwang\characwl.c"
+"F:\xrf\src\xrfwang\compdata.c"
+"F:\xrf\src\xrfwang\convcomp.c"
+"F:\xrf\src\xrfwang\costerkr.c"
+"F:\xrf\src\xrfwang\define_smpl.c"
+"F:\xrf\src\xrfwang\delta_ij.c"
+"F:\xrf\src\xrfwang\edges.c"
+"F:\xrf\src\xrfwang\emutable.c"
+"F:\xrf\src\xrfwang\enhanc.c"
+"F:\xrf\src\xrfwang\gen_spec.c"
+"F:\xrf\src\xrfwang\getgifct.c"
+"F:\xrf\src\xrfwang\init_tables.c"
+"F:\xrf\src\xrfwang\intrasecflu.c"
+"F:\xrf\src\xrfwang\jmpedg.c"
+"F:\xrf\src\xrfwang\k_j.c"
+"F:\xrf\src\xrfwang\layerdata.c"
+"F:\xrf\src\xrfwang\lzero.c"
+"F:\xrf\src\xrfwang\mkbinbulk.c"
+"F:\xrf\src\xrfwang\mkbulklay.c"
+"F:\xrf\src\xrfwang\mulabfil.c"
+"F:\xrf\src\xrfwang\nkls.c"
+"F:\xrf\src\xrfwang\omega.c"
+"F:\xrf\src\xrfwang\pij_labda.c"
+"F:\xrf\src\xrfwang\pilabda.c"
+"F:\xrf\src\xrfwang\prtmltic.c"
+"F:\xrf\src\xrfwang\relrates.c"
+"F:\xrf\src\xrfwang\respfunc.c"
+"F:\xrf\src\xrfwang\secfluij.c"
+"F:\xrf\src\xrfwang\selfattilabda.c"
+"F:\xrf\src\xrfwang\set_spectrom.c"
+"F:\xrf\src\xrfwang\simplex.c"
+"F:\xrf\src\xrfwang\sum_el.c"
+"F:\xrf\src\xrfwang\xrfwang.c"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP8.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP9.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:no /pdb:"Release/xrfwang.pdb" /machine:I386 /out:"Release/xrfwang.exe" 
+.\Release\attilabda.obj
+.\Release\bldatomd.obj
+.\Release\characwl.obj
+.\Release\compdata.obj
+.\Release\convcomp.obj
+.\Release\costerkr.obj
+.\Release\define_smpl.obj
+.\Release\delta_ij.obj
+.\Release\edges.obj
+.\Release\emutable.obj
+.\Release\enhanc.obj
+.\Release\gen_spec.obj
+.\Release\getgifct.obj
+.\Release\init_tables.obj
+.\Release\intrasecflu.obj
+.\Release\jmpedg.obj
+.\Release\k_j.obj
+.\Release\layerdata.obj
+.\Release\lzero.obj
+.\Release\mkbinbulk.obj
+.\Release\mkbulklay.obj
+.\Release\mulabfil.obj
+.\Release\nkls.obj
+.\Release\omega.obj
+.\Release\pij_labda.obj
+.\Release\pilabda.obj
+.\Release\prtmltic.obj
+.\Release\relrates.obj
+.\Release\respfunc.obj
+.\Release\secfluij.obj
+.\Release\selfattilabda.obj
+.\Release\set_spectrom.obj
+.\Release\simplex.obj
+.\Release\sum_el.obj
+.\Release\xrfwang.obj
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP9.tmp"
+<h3>Output Window</h3>
+Compiling...
+attilabda.c
+bldatomd.c
+characwl.c
+compdata.c
+convcomp.c
+costerkr.c
+define_smpl.c
+delta_ij.c
+edges.c
+emutable.c
+enhanc.c
+F:\xrf\src\xrfwang\enhanc.c(40) : warning C4101: 'seriesi' : unreferenced local variable
+F:\xrf\src\xrfwang\enhanc.c(40) : warning C4101: 'shelli' : unreferenced local variable
+gen_spec.c
+F:\xrf\src\xrfwang\gen_spec.c(110) : warning C4244: '=' : conversion from 'double ' to 'int ', possible loss of data
+F:\xrf\src\xrfwang\gen_spec.c(125) : warning C4244: '=' : conversion from 'double ' to 'int ', possible loss of data
+F:\xrf\src\xrfwang\gen_spec.c(140) : warning C4244: '=' : conversion from 'double ' to 'int ', possible loss of data
+F:\xrf\src\xrfwang\gen_spec.c(155) : warning C4244: '=' : conversion from 'double ' to 'int ', possible loss of data
+getgifct.c
+init_tables.c
+intrasecflu.c
+jmpedg.c
+k_j.c
+F:\xrf\src\xrfwang\jmpedg.c(421) : warning C4715: 'getjmpfact' : not all control paths return a value
+layerdata.c
+lzero.c
+mkbinbulk.c
+mkbulklay.c
+mulabfil.c
+nkls.c
+omega.c
+pij_labda.c
+pilabda.c
+prtmltic.c
+relrates.c
+respfunc.c
+secfluij.c
+selfattilabda.c
+set_spectrom.c
+simplex.c
+sum_el.c
+xrfwang.c
+Linking...
+
+
+
+<h3>Results</h3>
+xrfwang.exe - 0 error(s), 7 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,29 @@
+Tue Nov 23 20:59:27 2004
+
+-----Sample ID STD-2 ------
+
+
+line  kv    intens.
+
+Sn ka 60.0 0.62018 
+
+-----Sample ID STD-2 ------
+
+
+
+Line  Sn ka RXI found 0.620179 RXI meas 0.62018
+
+Layer 0 has 2 compounds and a massthickness of 10  g/cm2
+Compound SnO2 wfract 0.0391059  
+Compound Li2B4O7 wfract 0.9609  
+Ssq is 1.57194e-018
+================================================
+results with scattering taken into account
+================================================
+
+Line  Sn ka RXI found 0.620178 RXI meas 0.62018
+
+Layer 0 has 2 compounds and a massthickness of 10  g/cm2
+Compound SnO2 wfract 0.0299998  
+Compound Li2B4O7 wfract 0.970008  
+Ssq is 3.21861e-017

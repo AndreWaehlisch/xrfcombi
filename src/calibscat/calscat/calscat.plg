@@ -1,0 +1,160 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: calscat - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP34.tmp" with contents
+[
+/nologo /ML /W3 /GX /D "WIN32" /D "NDEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Release/calscat.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"F:\xrf\src\calibscat\adapq.c"
+"F:\xrf\src\calibscat\attilabda.c"
+"F:\xrf\src\calibscat\bldatomd.c"
+"F:\xrf\src\calibscat\bscatter.c"
+"F:\xrf\src\calibscat\calcsxz.c"
+"F:\xrf\src\calibscat\calscat.c"
+"F:\xrf\src\calibscat\characwl.c"
+"F:\xrf\src\calibscat\compdata.c"
+"F:\xrf\src\calibscat\comptcrossmix.c"
+"F:\xrf\src\calibscat\comptisesr.c"
+"F:\xrf\src\calibscat\comptoninteg.c"
+"F:\xrf\src\calibscat\convcomp.c"
+"F:\xrf\src\calibscat\costerkr.c"
+"F:\xrf\src\calibscat\define_smpl.c"
+"F:\xrf\src\calibscat\edges.c"
+"F:\xrf\src\calibscat\emutable.c"
+"F:\xrf\src\calibscat\enhanc.c"
+"F:\xrf\src\calibscat\ffstoresm.c"
+"F:\xrf\src\calibscat\fotraylinteg.c"
+"F:\xrf\src\calibscat\gen_spec.c"
+"F:\xrf\src\calibscat\init_tables.c"
+"F:\xrf\src\calibscat\intrasecflu.c"
+"F:\xrf\src\calibscat\jmpedg.c"
+"F:\xrf\src\calibscat\layerdata.c"
+"F:\xrf\src\calibscat\linesms.c"
+"F:\xrf\src\calibscat\lzero.c"
+"F:\xrf\src\calibscat\mkbulklay.c"
+"F:\xrf\src\calibscat\nkls.c"
+"F:\xrf\src\calibscat\omega.c"
+"F:\xrf\src\calibscat\pilabda.c"
+"F:\xrf\src\calibscat\raylcrossmix.c"
+"F:\xrf\src\calibscat\raylfotinteg.c"
+"F:\xrf\src\calibscat\raylisesr.c"
+"F:\xrf\src\calibscat\raylispfr.c"
+"F:\xrf\src\calibscat\relrates.c"
+"F:\xrf\src\calibscat\secfluij.c"
+"F:\xrf\src\calibscat\selfattilabda.c"
+"F:\xrf\src\calibscat\set_spectrom.c"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP34.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP35.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:no /pdb:"Release/calscat.pdb" /machine:I386 /out:"Release/calscat.exe" 
+.\Release\adapq.obj
+.\Release\attilabda.obj
+.\Release\bldatomd.obj
+.\Release\bscatter.obj
+.\Release\calcsxz.obj
+.\Release\calscat.obj
+.\Release\characwl.obj
+.\Release\compdata.obj
+.\Release\comptcrossmix.obj
+.\Release\comptisesr.obj
+.\Release\comptoninteg.obj
+.\Release\convcomp.obj
+.\Release\costerkr.obj
+.\Release\define_smpl.obj
+.\Release\edges.obj
+.\Release\emutable.obj
+.\Release\enhanc.obj
+.\Release\ffstoresm.obj
+.\Release\fotraylinteg.obj
+.\Release\gen_spec.obj
+.\Release\init_tables.obj
+.\Release\intrasecflu.obj
+.\Release\jmpedg.obj
+.\Release\layerdata.obj
+.\Release\linesms.obj
+.\Release\lzero.obj
+.\Release\mkbulklay.obj
+.\Release\nkls.obj
+.\Release\omega.obj
+.\Release\pilabda.obj
+.\Release\raylcrossmix.obj
+.\Release\raylfotinteg.obj
+.\Release\raylisesr.obj
+.\Release\raylispfr.obj
+.\Release\relrates.obj
+.\Release\secfluij.obj
+.\Release\selfattilabda.obj
+.\Release\set_spectrom.obj
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP35.tmp"
+<h3>Output Window</h3>
+Compiling...
+adapq.c
+attilabda.c
+bldatomd.c
+bscatter.c
+calcsxz.c
+F:\xrf\src\calibscat\calcsxz.c(25) : warning C4101: 'gamma_prime' : unreferenced local variable
+F:\xrf\src\calibscat\calcsxz.c(25) : warning C4101: 'eps' : unreferenced local variable
+F:\xrf\src\calibscat\calcsxz.c(25) : warning C4101: 'Ec' : unreferenced local variable
+F:\xrf\src\calibscat\calcsxz.c(25) : warning C4101: 'gamma' : unreferenced local variable
+calscat.c
+characwl.c
+compdata.c
+comptcrossmix.c
+comptisesr.c
+F:\xrf\src\calibscat\comptisesr.c(65) : warning C4101: 'alfagrens' : unreferenced local variable
+comptoninteg.c
+F:\xrf\src\calibscat\comptoninteg.c(58) : warning C4101: 'energy' : unreferenced local variable
+F:\xrf\src\calibscat\comptoninteg.c(110) : warning C4101: 'lambda' : unreferenced local variable
+F:\xrf\src\calibscat\comptoninteg.c(109) : warning C4101: 'tauilambda' : unreferenced local variable
+convcomp.c
+costerkr.c
+define_smpl.c
+edges.c
+emutable.c
+enhanc.c
+F:\xrf\src\calibscat\enhanc.c(40) : warning C4101: 'seriesi' : unreferenced local variable
+F:\xrf\src\calibscat\enhanc.c(40) : warning C4101: 'shelli' : unreferenced local variable
+ffstoresm.c
+fotraylinteg.c
+gen_spec.c
+F:\xrf\src\calibscat\gen_spec.c(110) : warning C4244: '=' : conversion from 'double ' to 'int ', possible loss of data
+F:\xrf\src\calibscat\gen_spec.c(125) : warning C4244: '=' : conversion from 'double ' to 'int ', possible loss of data
+F:\xrf\src\calibscat\gen_spec.c(140) : warning C4244: '=' : conversion from 'double ' to 'int ', possible loss of data
+F:\xrf\src\calibscat\gen_spec.c(155) : warning C4244: '=' : conversion from 'double ' to 'int ', possible loss of data
+init_tables.c
+intrasecflu.c
+jmpedg.c
+layerdata.c
+F:\xrf\src\calibscat\jmpedg.c(421) : warning C4715: 'getjmpfact' : not all control paths return a value
+linesms.c
+lzero.c
+mkbulklay.c
+nkls.c
+omega.c
+pilabda.c
+raylcrossmix.c
+raylfotinteg.c
+raylisesr.c
+raylispfr.c
+F:\xrf\src\calibscat\raylispfr.c(59) : warning C4101: 'part2a' : unreferenced local variable
+F:\xrf\src\calibscat\raylispfr.c(59) : warning C4101: 'part3a' : unreferenced local variable
+relrates.c
+secfluij.c
+selfattilabda.c
+set_spectrom.c
+Linking...
+
+
+
+<h3>Results</h3>
+calscat.exe - 0 error(s), 17 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,25 @@
+Calibration Results   Mon Oct 29 21:42:31 2001   
+
+----------------------------------------------
+
+
+
+name #cmpds mth  compound  fraction ...
+
+                                           
+
+STD1  3 10.0 Al2O3 0.1 ZrO2 0.1 Li2B4O7 0.8
+
+-------------------------------------------------
+  
+
+Sample Id | int line 1 | int line 2 | ....      
+
+STD1 1.222 2.222
+
+-----------slopes calibration lines ------
+
+
+
+Al ka 50.0 None 0.00 PE MLARGE  5.404192e+001
+Zr ka 50.0 None 0.00 LIF200 MLARGE  3.284465e+000

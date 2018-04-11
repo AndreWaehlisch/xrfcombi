@@ -1,0 +1,21 @@
+nr_of_meas_lines 4 
+0 Z: 22 line ka rel int. 0.2409 
+1 Z: 26 line ka rel int. 0.0066942 
+2 Z: 38 line la1 rel int. 0.3505 
+3 Z: 57 line la1 rel int. 0.045179 
+Bulkint Ti ka  3.335378e-003 
+Bulkint Fe ka  7.369444e-004 
+Bulkint Sr la1  7.003986e-005 
+Bulkint La la1  1.211408e-004 
+Warning maximum # iterations reached 
+Line nr 0 RXI found 0.23017 RXI meas 0.2409
+Line nr 1 RXI found 0.00667555 RXI meas 0.0066942
+Line nr 2 RXI found 0.342632 RXI meas 0.3505
+Line nr 3 RXI found 0.0448412 RXI meas 0.045179
+Layer 0 has 3 compounds and a massthickness of 9.0576e-005  g/cm2
+Compound La2O3 wfract 0.537647  
+Compound Fe2O3 wfract 0.363757  
+Compound SrO wfract 0.098584  
+Layer 1 has 1 compounds and a massthickness of 0.495  g/cm2
+Compound SrTiO3 wfract 1  
+Ssq is 0.0027287
